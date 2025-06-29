@@ -1,16 +1,56 @@
-# inspirational_app
+<h1 align="center" id="title">Inspirational_UI</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/hastik07/Inspirational_UI/image?custom_language=Flutter&font=Source+Code+Pro&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">This UI is built entirely from scratch using Flutter and Dart. I utilized core Flutter widgets to design and structure the user interface without relying on any third-party libraries.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/hastik07/Inspirational_UI/blob/main/assets/screenshots/img.png" alt="project-screenshot" width="400" height="800/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+  
+<h2>🧐 Features</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here're some of the project's best features:
+
+*   TextField
+*   Slide Horizontally
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repository:</p>
+
+```
+git clone https://github.com/hastik07/Inspirational_UI.git
+```
+
+<p>2. Install dependencies:</p>
+
+```
+flutter pub get
+```
+
+<p>3. Run the application:</p>
+
+```
+flutter run
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   Dart
+*   Android Studio
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
